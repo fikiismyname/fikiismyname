@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,14 +57,10 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.67% 
-JSON                     1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.34% 
-JavaScript               1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75% 
-TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
+HTML                     0 secs              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  5 hrs 59 mins       █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -78,5 +74,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 06/03/2022 18:40:34 UTC
+ Last Updated on 08/03/2022 18:42:16 UTC
 <!--END_SECTION:waka-->
