@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,5 +74,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 02/04/2022 18:41:53 UTC
+ Last Updated on 06/04/2022 18:42:33 UTC
 <!--END_SECTION:waka-->
