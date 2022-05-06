@@ -57,11 +57,10 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               13 mins             ████████████████████████░   99.28% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -75,5 +74,5 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 05/05/2022 18:45:03 UTC
+ Last Updated on 06/05/2022 18:45:31 UTC
 <!--END_SECTION:waka-->
