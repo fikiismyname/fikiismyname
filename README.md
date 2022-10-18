@@ -14,19 +14,19 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 69 Contributions in the Year 2022
+> 🏆 70 Contributions in the Year 2022
  > 
 > 📦 15.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 48 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -59,14 +59,14 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   34.96% 
-HTML                     2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.48% 
-Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
-Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.23%
+JavaScript               4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   43.18% 
+HTML                     2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75% 
+Markdown                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.41% 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.19%
 
 🔥 Editors: 
-VS Code                  8 hrs 14 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 25 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +80,5 @@ JavaScript               2 repos             ████████░░░�
 
 
 
- Last Updated on 17/10/2022 19:09:21 UTC
+ Last Updated on 18/10/2022 19:01:26 UTC
 <!--END_SECTION:waka-->
