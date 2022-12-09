@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,10 +59,14 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     9 mins              ██████████████░░░░░░░░░░░   58.04% 
+JavaScript               6 mins              █████████░░░░░░░░░░░░░░░░   38.76% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.0%
 
 ```
 
@@ -76,5 +80,5 @@ JavaScript               2 repos             ████████░░░�
 
 
 
- Last Updated on 08/12/2022 18:39:17 UTC
+ Last Updated on 09/12/2022 18:39:22 UTC
 <!--END_SECTION:waka-->
