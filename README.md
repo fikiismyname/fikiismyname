@@ -59,11 +59,10 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               2 mins              ███████████████████████░░   95.16% 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.84%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,5 +76,5 @@ JavaScript               3 repos             ██████████░�
 
 
 
- Last Updated on 27/01/2023 18:37:04 UTC
+ Last Updated on 28/01/2023 18:35:37 UTC
 <!--END_SECTION:waka-->
