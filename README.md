@@ -57,12 +57,10 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               1 hr 42 mins        █████████████████████████   98.63 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -75,5 +73,5 @@ JavaScript               3 repos             ███████████�
 
 
 
- Last Updated on 04/03/2023 18:36:10 UTC
+ Last Updated on 05/03/2023 18:36:17 UTC
 <!--END_SECTION:waka-->
