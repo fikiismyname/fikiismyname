@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,10 +57,14 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     5 hrs 1 min         ██████████████████████░░░   87.95 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -73,5 +77,5 @@ JavaScript               3 repos             ███████████�
 
 
 
- Last Updated on 10/03/2023 18:36:40 UTC
+ Last Updated on 11/03/2023 18:34:45 UTC
 <!--END_SECTION:waka-->
