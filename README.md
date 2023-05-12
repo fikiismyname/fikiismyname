@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,11 +22,11 @@
 
 > 📦 18.2 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2023
+> 🏆 19 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 53 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
@@ -57,14 +57,14 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 48 mins        ████████████████░░░░░░░░░   62.83 % 
-Other                    51 mins             ████████░░░░░░░░░░░░░░░░░   30.03 % 
-PHP                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Apache Config            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+HTML                     1 hr 52 mins        ███████████████░░░░░░░░░░   59.36 % 
+Other                    58 mins             ████████░░░░░░░░░░░░░░░░░   31.13 % 
+PHP                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Apache Config            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -79,5 +79,5 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2023 18:33:23 UTC
+ Last Updated on 12/05/2023 18:33:40 UTC
 <!--END_SECTION:waka-->
