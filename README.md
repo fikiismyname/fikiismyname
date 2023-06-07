@@ -57,11 +57,10 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Text                     17 mins             ████████████████████░░░░░   80.42 % 
-Python                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -76,5 +75,5 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2023 18:33:27 UTC
+ Last Updated on 07/06/2023 18:34:33 UTC
 <!--END_SECTION:waka-->
