@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -57,11 +57,12 @@ Sunday                   4 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               8 mins              ████████████████████░░░░░   81.10 % 
-HTML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Other                    2 hrs 41 mins       ███████████████████████░░   93.88 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -76,5 +77,5 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2023 18:33:38 UTC
+ Last Updated on 21/06/2023 18:33:36 UTC
 <!--END_SECTION:waka-->
