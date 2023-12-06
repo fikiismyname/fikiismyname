@@ -14,8 +14,6 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2053%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -30,39 +28,6 @@
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                41 commits          ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-🌆 Daytime                24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-🌃 Evening                39 commits          ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-🌙 Night                  67 commits          ██████████░░░░░░░░░░░░░░░   39.18 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Tuesday                  8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Friday                   73 commits          ███████████░░░░░░░░░░░░░░   42.69 % 
-Saturday                 53 commits          ████████░░░░░░░░░░░░░░░░░   30.99 % 
-Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -76,5 +41,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 18:35:03 UTC
+ Last Updated on 06/12/2023 18:35:30 UTC
 <!--END_SECTION:waka-->
