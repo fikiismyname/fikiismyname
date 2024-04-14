@@ -14,8 +14,6 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2053%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -74,5 +72,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 18:33:19 UTC
+ Last Updated on 14/04/2024 22:57:45 UTC
 <!--END_SECTION:waka-->
