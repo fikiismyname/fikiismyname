@@ -14,8 +14,6 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2036%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -30,45 +28,6 @@
  > 
 > 🔑 52 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-🌆 Daytime                1346 commits        ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
-🌃 Evening                2294 commits        ██████████░░░░░░░░░░░░░░░   41.70 % 
-🌙 Night                  1043 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   398 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Tuesday                  821 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Wednesday                951 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Thursday                 1338 commits        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Friday                   582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Saturday                 1068 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Sunday                   343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -82,5 +41,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:06:40 UTC
+ Last Updated on 07/08/2026 00:24:16 UTC
 <!--END_SECTION:waka-->
