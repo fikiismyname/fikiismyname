@@ -14,17 +14,17 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-61%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-63%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 164.5 kB Used in GitHub's Storage 
+> 📦 164.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,493 Contributions in the Year 2026
+> 🏆 1,495 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,21 +35,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                870 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-🌆 Daytime                1476 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-🌃 Evening                2426 commits        ██████████░░░░░░░░░░░░░░░   41.07 % 
-🌙 Night                  1135 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+🌞 Morning                870 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+🌆 Daytime                1482 commits        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+🌃 Evening                2426 commits        ██████████░░░░░░░░░░░░░░░   41.03 % 
+🌙 Night                  1135 commits        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   475 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Tuesday                  833 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                986 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Thursday                 1416 commits        ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-Friday                   648 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Saturday                 1125 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Sunday                   424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Monday                   475 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Tuesday                  839 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Wednesday                986 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Thursday                 1416 commits        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+Friday                   648 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Saturday                 1125 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Sunday                   424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 ```
 
 
@@ -59,41 +59,41 @@ Sunday                   424 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     12 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   31.22 % 
-TypeScript               8 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Markdown                 7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Text                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-JavaScript               2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     14 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.99 % 
+TypeScript               7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Markdown                 5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Text                     3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+JavaScript               2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🔥 Editors: 
-VS Code                  30 hrs              ███████████████████░░░░░░   75.77 % 
-Claude Code              9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+VS Code                  29 hrs 27 mins      ███████████████████░░░░░░   76.37 % 
+Claude Code              9 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 50 mins (80.36%)
+⏱ AI Coding Time: 28 hrs 32 mins (74.02%)
 
-✍️ 30,591 lines written by AI, 38,328 lines written by hand (44.39% AI-written)
+✍️ 23,258 lines written by AI, 38,347 lines written by hand (37.75% AI-written)
 
-🔤 17,704,774 Input Tokens, 3,039,473 Output Tokens
+🔤 15,269,731 Input Tokens, 2,223,121 Output Tokens
 
-💵 $1437.86 Estimated AI Cost This Week
+💵 $829.57 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 309 AI Prompts
+🧠 70 AI Sessions, 271 AI Prompts
 
-Deepseek                 20,421 lines        ████████████░░░░░░░░░░░░░   46.31 % 
-M                        18,945 lines        ███████████░░░░░░░░░░░░░░   42.96 % 
-Qwen                     3,206 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-K                        1,524 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+M                        18,945 lines        ████████████░░░░░░░░░░░░░   49.37 % 
+Deepseek                 14,697 lines        ██████████░░░░░░░░░░░░░░░   38.30 % 
+Qwen                     3,206 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+K                        1,524 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.39% of written lines came from AI
-📚 Verbose Prompter — average 4,389 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 64.05% of changed lines were hand-edited
+⚖️ Balanced with AI — 37.75% of written lines came from AI
+📚 Verbose Prompter — average 4,583 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 69.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,5 +109,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 23:01:12 UTC
+ Last Updated on 01/09/2026 21:15:07 UTC
 <!--END_SECTION:waka-->
