@@ -14,11 +14,11 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -59,39 +59,39 @@ Sunday                   424 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 14 hrs              ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-HTML                     11 hrs 45 mins      █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-TypeScript               8 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Go                       7 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Text                     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Markdown                 14 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+TypeScript               9 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+HTML                     9 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Go                       7 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+JSON                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 12 mins      █████████████████░░░░░░░░   68.87 % 
-Claude Code              17 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   31.13 % 
+VS Code                  34 hrs 37 mins      ████████████████░░░░░░░░░   63.35 % 
+Claude Code              20 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   36.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 41 mins (84.14%)
+⏱ AI Coding Time: 48 hrs 25 mins (88.58%)
 
-✍️ 55,449 lines written by AI, 104,054 lines written by hand (34.76% AI-written)
+✍️ 57,310 lines written by AI, 104,039 lines written by hand (35.52% AI-written)
 
-🔤 24,494,718 Input Tokens, 5,483,543 Output Tokens
+🔤 34,039,841 Input Tokens, 5,714,818 Output Tokens
 
-💵 $2205.72 Estimated AI Cost This Week
+💵 $2167.04 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 436 AI Prompts
+🧠 59 AI Sessions, 452 AI Prompts
 
-Deepseek                 35,730 lines        ██████████████████░░░░░░░   72.86 % 
-Qwen                     13,306 lines        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Deepseek                 34,720 lines        █████████████████░░░░░░░░   67.94 % 
+Qwen                     16,383 lines        ████████░░░░░░░░░░░░░░░░░   32.06 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.76% of written lines came from AI
-📚 Verbose Prompter — average 2,109 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 70.44% of changed lines were hand-edited
+⚖️ Balanced with AI — 35.52% of written lines came from AI
+📚 Verbose Prompter — average 2,058 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 68.9% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,5 +107,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:42:21 UTC
+ Last Updated on 08/09/2026 21:21:21 UTC
 <!--END_SECTION:waka-->
