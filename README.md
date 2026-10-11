@@ -14,17 +14,17 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-269%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-274%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 303.5 kB Used in GitHub's Storage 
+> 📦 304.0 kB Used in GitHub's Storage 
  > 
-> 🏆 2,467 Contributions in the Year 2026
+> 🏆 2,523 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,21 +35,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1027 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-🌆 Daytime                1777 commits        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-🌃 Evening                2769 commits        ██████████░░░░░░░░░░░░░░░   38.67 % 
-🌙 Night                  1587 commits        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+🌞 Morning                1030 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+🌆 Daytime                1788 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌃 Evening                2788 commits        ██████████░░░░░░░░░░░░░░░   38.64 % 
+🌙 Night                  1610 commits        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Tuesday                  975 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Wednesday                1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Thursday                 1648 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Friday                   767 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Saturday                 1488 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Sunday                   541 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Monday                   613 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Tuesday                  975 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Wednesday                1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Thursday                 1648 commits        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Friday                   767 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Saturday                 1488 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Sunday                   574 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 ```
 
 
@@ -59,46 +59,46 @@ Sunday                   541 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 7 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-TypeScript               5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-HTML                     5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-JavaScript               3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Bash                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Markdown                 8 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+HTML                     6 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+TypeScript               6 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+JavaScript               3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Other                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 32 mins      ████████████████░░░░░░░░░   63.04 % 
-VS Code                  10 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.96 % 
+VS Code                  16 hrs 25 mins      █████████████░░░░░░░░░░░░   50.61 % 
+Claude Code              16 hrs 2 mins       ████████████░░░░░░░░░░░░░   49.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 15 mins (69.21%)
+⏱ AI Coding Time: 23 hrs 29 mins (72.33%)
 
-✍️ 22,131 lines written by AI, 13,808 lines written by hand (61.58% AI-written)
+✍️ 23,433 lines written by AI, 15,075 lines written by hand (60.85% AI-written)
 
-🔤 20,533,440 Input Tokens, 2,433,617 Output Tokens
+🔤 20,199,019 Input Tokens, 3,025,567 Output Tokens
 
-💵 $15.06 Estimated AI Cost This Week
+💵 $791.68 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 203 AI Prompts
+🧠 41 AI Sessions, 281 AI Prompts
 
-Qwen                     22,531 lines        █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Qwen                     16,989 lines        ██████████████████░░░░░░░   72.22 % 
+Claude-Code              6,534 lines         ███████░░░░░░░░░░░░░░░░░░   27.78 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.58% of written lines came from AI
-📚 Verbose Prompter — average 4,038 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 74.31% of changed lines were hand-edited
+⚖️ Balanced with AI — 60.85% of written lines came from AI
+📚 Verbose Prompter — average 3,421 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 74.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               32 repos            ███████████░░░░░░░░░░░░░░   45.71 % 
+TypeScript               33 repos            ████████████░░░░░░░░░░░░░   47.14 % 
 JavaScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Python                   9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 ```
@@ -106,5 +106,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 21:58:37 UTC
+ Last Updated on 11/10/2026 22:16:53 UTC
 <!--END_SECTION:waka-->
